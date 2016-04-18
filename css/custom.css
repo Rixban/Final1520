@@ -1,0 +1,155 @@
+.mechanics-section {
+    padding-top: 50px;
+    text-align: left;
+}
+
+.lanes-section {
+    padding-top: 50px;
+    text-align: left;
+}
+
+.phases-section {
+    padding-top: 50px;
+    text-align: left;
+}
+
+.cont-section {
+    padding-top: 50px;
+    text-align: left;
+	color: #8195FF;
+	background-color: #050B2F;
+	padding-bottom: 50px;
+}
+
+.links-section {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.api-section{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.game-section{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.closing-section {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.intro-section {
+	color: #8195FF;
+	background-color: #050B2F;
+    padding-top: 150px;
+    text-align: left;
+}
+
+.cont-section h1 {
+    text-align: center;
+	color: #1000DE;
+}
+
+.intro-section h1 {
+	color: #1000DE;
+    text-align: center;
+}
+
+.intro-section h3 {
+	color: #8195FF;
+    text-align: left;
+}
+
+
+
+	h1{
+		color: #050B2F;
+		font-size: 28px;
+		font-family: 'Vollkorn', serif;
+		font-weight: bold;
+		font-variant: small-caps;
+		text-align: center;
+	}
+	
+	p{
+		color: #1000DE;
+		font-size: 15px;
+		font-family: 'Vollkorn', serif;
+		text-align: block;
+		text-indent: 20px;
+	}
+	
+	h2{
+		color: #050B2F;
+		font-size: 24px;
+		font-family: 'Vollkorn', serif;
+		font-weight: bold;
+	}
+	
+	h3{
+		color: #050B2F;
+		font-size: 20px;
+		font-family: 'Vollkorn', serif;
+		text-align: block;
+		text-indent: 20px;
+		font-weight: bold;
+		
+	}
+	
+	li{
+		color: #1000DE;
+		font-size: 16px;
+		font-family: 'Vollkorn', serif;
+	}
+	
+	body{
+		background-color: #8195FF;
+	}
+	
+	a{
+		color: #1000DE;
+		text-decoration: underline;
+		font-size: 18px;
+	}
+	
+	h4{
+		color: #050B2F;
+		font-family: 'Vollkorn', serif;
+		text-align: block;
+		text-indent: 18px;
+		font-weight: bold;
+	}
+	
+	h5{
+		color: #1000DE;
+		font-family: 'Vollkorn', serif;
+		text-align: block;
+		text-indent: 18px;
+	}
+	
+	p::first-letter { 
+    font-size: 120%;
+    color: #1000DE;
+	font-family: 'Vollkorn', serif;
+	}
+	
+	input[type=text]{
+		background-color: #8195FF;
+		color: #FFFFFF;
+		font-family: 'Vollkorn', serif;
+	}
+	
+	input{
+		font-size: 18px;
+		font-family: 'Vollkorn', serif;
+	}
+	
+	#box{
+		height: 100px;
+		width: 100px;
+		background-color: red;
+		border-radius: 5px;
+	}

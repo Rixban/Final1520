@@ -1,0 +1,171 @@
+$mid = array("Ahri", "Akali", "Anivia", "Annie", "Azir", "Brand", "Cassiopeia", "Cho'Gath", "Corki", "Diana", "Ekko", "Ezreal", "Fizz", "Galio", "Heimerdinger", "Jayce", "Karma", "Karthus", "Kassadin", "Katarina", "Kog'Maw", "LeBlanc", "Lissandra", "Lulu",  "Lux", "Malzahar", "Morgana","Nidalee", "Orianna", "Ryze", "Swain",  "Syndra", "Talon", "Twisted Fate", "Varus", "Veigar", "Vel'koz", "Viktor", "Vladimir", "Xerath", "Yasuo", "Zed", "Ziggs", "Zilean");
+
+$top = array("Aatrox", "Akali", "Cho'Gath", "Darius", "Diana", "Dr. Mundo", "Ekko","Fiora",  "Fizz", "Galio", "Gangplank", "Garen", "Gnar", "Graves", "Hecarim","Heimerdinger", "Illaoi", "Irelia", "Jarvin IV", "Jax", "Jayce", "Kennen", "Lee Sin", "Lissandra", "Lulu", "Malphite", "Maokai", "Nasus", "Nautilus", "Olaf", "Pantheon", "Poppy", "Quinn", "Rammus", "Renekton", "Rengar", "Riven", "Rumble", "Ryze",  "Shen", "Shyvana", "Singed", "Sion", "Swain", "Tahm Kench", "Teemo", "Trundle", "Tryndamere", "Vayne", "Vladimir", "Volibear", "Wukong", "Xin Zhao","Yasuo", "Yorick", "Zed");
+
+$jungle = array("Aatrox","Amumu", "Cho'Gath", "Dr. Mundo", "Ekko", "Elise", "Evelyn", "Fiddlesticks", "Fizz",  "Gragas", "Graves", "Hecarim", "Jarvin IV", "Jax", "Karthus", "Kayle", "Kha'Zix", "Kindred", "Lee Sin", "Malphite", "Master Yi","Nautilus", "Nidalee", "Nocturne", "Nunu", "Olaf", "Pantheon", "Poppy", "Quinn", "Rammus", "Rek'Sai", "Rengar", "Rumble", "Sejuani", "Shaco", "Shen", "Shyvana", "Skarner", "Tahm Kench", "Trundle", "Udyr", "Vi", "Volibear", "Warwick", "Wukong", "Xin Zhao", "Zac");
+
+$support = array("Alistar", "Annie", "Bard", "Blitzcrank", "Brand", "Braum", "Galio", "Janna", "Karma", "Leona", "Lulu", "Lux", "Morgana","Nami", "Nautilus", "Poppy", "Shen", "Sona", "Soraka", "Tahm Kench", "Taric", "Thresh", "Trundle","Vel'koz", "Zilean", "Zyra" );
+
+$adc = array("Ashe", "Caitlyn", "Corki", "Draven", "Ezreal", "Graves", "Jhin", "Jinx", "Kalista", "Kog'Maw", "Lucian", "Miss Fortune", "Mordekaiser", "Quinn", "Sivir", "Tristana", "Twitch", "Urgot", "Varus", "Vayne" );
+
+Section 1: Introduction
+	(Slightly larger font) Disclaimer: This site assumes that you understand at least the basics of League of Legends, skill or rank does not matter but at least you should have some familiarity with how the game plays. 
+	Are you stuck in... ELO HELL!?!? Looking to climb to the promise land of Diamond and above? Well fret not, you're come to the right place to start your Ryze... huehue... in the ranks. We'll start off with the basics, and work our way into the game, and touch on each lanes job before covering the process of a game. Without further adou, let's start with our first topic.
+	
+Section 2: Mechanics
+
+	Mechanics... arguably the most important skill asset in League of Legends. This ranges from the basics of CS'ing (Last hitting minions), to positioning in lane, to your personal skill level with the champion you are using. Being proficient at these is important if you wish to reach the promise lands of Diamond and above, so we shall cover each briefly before tying everything together.
+	
+	(slightly larger than text) Last Hitting
+	
+	This is the primary way that you earn gold, and the faster you earn gold, the faster you can buy your items, get your powerspikes, and have a larger impact on the game. I've seen people rise at least a whole division just by practicing this simple mechanic. Your goal as a laner that isn't support, is to average about 10cs per minute. Now to put that into context, you should be at 100 cs at 11 minutes or so, but this is unrealistic for every game.
+	
+	Match-ups will dictate the way you play your lane, and what CS you are able to get, and what CS you aren't able to get without giving something up in return. But on average, the average amount of CS per minute raises drastically between divisions that have at least one division between them (Bronze to Gold, Silver to Plat, Gold to Diamond, Plat to Masters/Challenger). The overall stats from an entire game however, is a bit more skewed as Challengers only seem to average 2-3 more cs/min than Bronze. If you look at the first ten minutes though, Bronze players average anywhere between 30-60 CS, while Challengers range between usually 80-100. That's a huge difference considering for the first twenty minutes, the avergage gold of a wave is 118.33 (counting siege minion waves). So that 40+ cs difference nets to about at least extra 840 gold in the first ten minutes.
+	
+	That number is quite large, and if two players of equal skill were put up against each other with that difference, the person with the cs lead would have more items and should win any trade with their opponent. This is easily the most important basic mechanic to learn and practice, and most CS that players will miss is within the first 5 minutes of the game, followed by the first 10 minutes of the game.
+	
+	So you may be asking yourself, "What can I do to improve my CS?" and this goes for every elo up to about Diamond where players should be more than comfortable getting any free CS. Here are different ways to improve your CS through practice.
+	
+		<list 1> Go into a Custom Game, all by yourself and pick whatever champion you main or a champion in the role you main, and just CS for 10 minutes. Check your CS at 5 minutes, you should aim for at least 40 CS at 5 minutes, and then keep farming until 10 where you should at least be at 90 CS or so. This means you should have gotten roughly 95% of the CS that came into lane.
+		<list 2> Once you've successfully been able to get 95% of the CS at least TWO private matches in a row, move onto the next practice. This time around, start up a private match, and alternate between pushing the wave as fast as you can while getting CS, and only last hitting. You should aim for the same amount of CS as before, roughly 95%. The degree of difficulty increases a lot in this step. Aim for at least two games in a row of success.
+		<list 3> Finally, add a bot into your lane, and focus on CS'ing and learning how to position and harass in lane. You should NEVER push the bot out of lane, do not allow them to get below 50% health. This will teach you your ranges of your abilities, the ranges of the opponent, and will help you CS with someone against you in your lane. Again, aim for at least 2 games in a row of success, alternating between only last hitting, and pushing lane as hard as you can.
+		
+	This practice can take a lot of time, when I did it myself, it took me roughly 7 hours of practice to complete this regiment, mostly because of the multiple game clauses. After that you should see a major improvement in your last hitting ability. Now take those skills and try them out in a normal game. I recommend doing this with champions you are likely to play, and not ones that you will not play. You can learn how to CS with them later when you understand the mechanics a bit better.
+	
+	Here is a video not by me of the process and what to do in each step: < insert youtube video >
+	
+	(slightly larger than text) Positioning
+	
+	Positioning yourself in lane is.... a bit of practice to say the least. The most optimal positioning changes every second in a game, which is why it can be hard to master this mechanic. Positioning is also about understanding your Champion, their strengths and weaknesses, as well as their match-ups. This one is a bit harder to practice, but what you want to do is imagine a circle around your champion and that is their range. That range fluxuates with abilities, so it's important to always know the range of everything on your champions kit. However you also need to imagine a circle around the enemy champion/s, and their ranges. If at any time the ranges overlap, that means that either they are able to hit you, or you are able to hit them. This is trading or harasing in lane. Your goal is to try to position yourself to either harass the enemy champion when they go to CS or if they're out of position in lane, OR to safely CS and minimize their chance of harassing you for free. Giving up CS to harass is rarely a good idea unless you're able to get a kill for it.
+	
+	Training positioning is not something that is easy to do, as you have to learn every champ match-up for your champion, and then understand when the enemy can go in, and when you can go in. Cooldowns are important to keep note of, if some ability is down and that makes their range circle go down, this is your time to CS or to go in and trade if it is likely to come out in your favor. Always time any summoners like flash, or ignite in chat, or at least let it be known in the chat that the enemy champion used their summoner spells. 
+	
+	To practice positioning, honestly, just comes with experience, and leads into our next topic, Champion mechanics, but know that generally, <i>NOBODY</i> positions well until at least mid to high plat, when people <b>FINALLY UNDERSTAND</b> this mechanic. 
+	
+	(slightly larger than text) Champion Mechanics
+	
+	Out of the three of these, this is what will allow you to beat higher skilled players or pull off those crazy plays that'll have everyone in the game going insane. Champion mechanics include your match-up knowledge, strengths and weaknesses, and how efficiently you use the champion.
+	
+	At a low elo level, (Bronze - Gold) it is best to avoid any champion with really high skill cap like Zed, Azir, Lee Sin, LeBlanc, etc. and stick to easier champions with lower skillcaps like Tryndamere, Volibear, Annie, Amumu, Warwick, etc. This will allow you to climb easier because the champions are easy to use, and while they may not be the biggest playmakers, you should be able to out CS, and outplay easier because you'll understand the full potential of the champion is a shorter amount of time.
+	
+	Animation cancelling is using either your abilities, auto attacks, or movement to shorten the time of your character animations in order to get the most damage out in the shortest amount of time. To figure this out for your champion, either auto attack and see what abilities you can cancel your auto attack into, or use an ability and see if you can chain it with other abilities or even your auto attack immediately. Some champions like Riven let you cancel her animations of her q by walking immeditely, or by using item actives like Ravenous Hydra. The key to this is experimenting, and practicing what you find out!
+	
+	Match-ups are also part of champion mechanics, and if you're good in that match-up, even if it's one your champion doesn't win often, your ability with your champion will dictate if you can turn the tides in your favor, or at least give you the ability to outscale the other team by playing safe and knowing what you can and cannot do. Looking up guides online (preferably find people who are diamond and above) on sites like LolKing.com and watching videos of Challenger players or pro players playing your champion will teach you how to farm in lane, how to look for trades, as well as teach you other lane mechanics like positioning, and team fighting. The information you gain from watching other people play will add a new layer of understanding of your champion, and what you need to do to be successful with them.
+	
+Section 3: Lanes and Champion Selection
+	
+	This is going to be a short section, we are going to just cover each of the lanes, the roles they provide, and the champions that <i>GENERALLY</i> play those roles. Some people play off-meta lane champions, and play things you normally would never see them play, and those match-ups can be difficult. (i.e. Nasus vs Bard top lane. Bard wins bad early, but outscaled greatly by Nasus.)
+	
+	Also, with the introduction of season 6, the ranked queue changed a lot, and at least you only need to know 2 roles (unless you pick fill as an option) instead of knowing all 5 before. This makes it easier to specialize and get what lane you want, and focus on your game more than before.
+	
+	Your champion pool when learning the game, should only be about 3 champions PER role. Have one MAIN champion you play in that role, but be proficient with at least two other champions in that role. Write out a diagram for each role, and make your life easier by learning champs that can play multiple roles.
+	
+	For example. If you learn Lulu mid, you can play her top, and support as well. It makes it easier for you because you understand her as a champion, and know what you can do with her. It saves you from having to learn two additional champions.
+	
+	NEVER PLAY A CHAMPION IN RANKED YOU'RE NOT GOOD WITH... YOU WILL LOSE.
+	
+	KEYNOTE: WORK ON MAP AWARENESS, KNOW WHERE THE ENEMY TEAM IS, WHEN THEY'RE MISSING, AND WHERE THEY WENT MISSING FROM. This will tell you a lot about where they may be, and if it's safe to stay in lane or if you should back off. WARD. It's important and gives your team information and prevents ganks, as well as objective taking. You have free wards, use them when they're up.
+	Top:
+	<show/hide champions>
+		As a top laner, you have the largest champion pool to pick from, and chances are you're filling in the gaps for your team. Top lane generally contains strong tanks or great duelists, but sometimes may have a hard carry champion like Graves or Quinn, or support mages like Lissandra or Lulu if your team lacks AP. As a top laner, you most likely will carry Teleport and must be ready to teleport to your team to support them when your teleport is up. Your playstyle changes depending on the champion you play. If you're a tanky champion, the amount of splitting you do is less than if you're gonna play a strong duelist like Fiora. As the game goes on though, if your teleport is up and your team doesn't need you for the immediate moment, you're going to want to look to split push and put pressure on the map to force people to come to you before you safely disengage and back and regroup with your team. However if your team gets engaged on, if it's winnable, you wanna teleport to help them, but if it's something they have then keep splitting. However your decision can decide the difference between a win or a loss in late game as the timers go up.
+		
+		Tank: You're looking to scale, play somewhat safer in the early game unless it is against a champ you can trade with and set up ganks for your jungler and kill them. As the game progresses, you're going to be the frontline for your team in teamfights, and most likely stick with them for important objectives like Dragon, Baron, and taking towers. When teleport is up, try to split as best you can, but if there's a teamfight that's about to happen, teleport in to help your team. You'll spend more time around your team than some other top laners.
+		
+		Duelists: You're also looking to scale, but you can fight in lane a lot better than tanks. You snowball harder early than most other champions, and getting fed and often spell GG for the enemy team as you become harder and harder to deal with. As the game progresses, and your TP is up, you're often splitting, putting as much pressure on the map as possible. PAY ATTENTION TO THE MAP, if the enemy team isn't on the map, chances are they're coming for you. Back off or base so you don't die. Teleport in when the team needs you, and wreck face.
+		
+		AP Champs: Generally, there's not many AP tops, and they're not often picked unless your mid laner is AD and your team lacks AP. If you're an AP top, you should win vs almost any melee AD top (unless you're Vladimir, then you just outscale). You have great teamfight, and are looking to join your team anytime there is a fight coming. Split when teleport is up, back off and ward when people are not on the map.
+		
+		Ranged AD: You should beat almost any melee top, and your damage output is decent, however you're squishy so play careful. You scale well, look to split later or help with teamfights and objectives. If Teleport isn't up, make sure you ward and there are no major objectives your team is going for. Might want to stick with your team.
+		
+		The lower the division you play in, the less the champion you pick matters as you can win with any champion rather easily. The higher your rank gets, the harder it becomes to win with certain champions because team compisitions begin to matter more.
+		
+		Starting champions to learn for top lane: Tryndamere, Nasus, Malphite, Dr. Mundo
+		Champions to avoid when starting: Riven, Lee Sin, Rumble
+	
+	Middle:
+	<show/hide champions>
+		Ah, middle lane... you have the most important lane in terms of objectives. Keeping your middle lane towers up is important, as when they're down, it really opens up the map for the enemy team to roam and set up gank paths on other people, and makes the jungle extremely dangerous for your team. In mid lane, there's really only a few options of types of champions to play: Assassins, Mages, Support Mages, and AP Tanks.
+		
+		If you're playing an assassin, you're looking to either kill your enemy laner, or to roam to other lanes AFTER YOU PUSH YOUR WAVE, that is the most important thing to remember, you cannot roam unless you push your wave or are just leaving your base. MID TOWERS ARE THE MOST IMPORTANT TOWERS, DO NOT LOSE THEM BECAUSE YOU ROAMED. As an assassin, you're looking to snowball off of easy kills on top lane, and bottom lane. Avoid trying to assassinate tanks, unless there is a lot of hard crowd control. If your lane opponent roams, look to either follow them if you can kill them, ping they're missing and ping danger to the lane they're roaming to and then shove lane and either take their tower or make them miss CS, or roam to the opposite lane while still pinging.
+		
+		If you're playing a mage, you have great wave clear, good poke, and a decent teamfight as long as you stay in the back. You're looking to farm, push hard and roam to other lanes for easy kills, chances are your damage is lower than that of an assassin in terms of burst, but your prolonged fight is stronger. Your main summoner spells will generally be flash and barrier/ghost/exhaust/teleport/ignite depending. Shove lane, look to roam for easy kills or follow your lane opponent if they're roaming, but be careful when doing so.
+		
+		If you're playing a support mage, you have decent wave clear, good support abilities, and a great teamfight. You're looking to farm, and scale well. Roaming to help other lanes secure kills. Look to do the same as Mage when it comes to roaming. Support your carries in teamfights, or save your frontline if they're in danger.
+		
+		If you're tanky mid... chances are you're Cho'Gath. Push waves, farm safely. It's hard for mages and assassins to kill you if you play correctly. Look for easy harass and outsustain them in lane. Shove hard in good match-ups, and look to roam when your lane is shoved.
+		
+		Starting champions to learn for middle: Cho'Gath, Annie, Veigar, Heimerdinger, Malzahar
+		Champions to avoid when starting: LeBlanc, Azir, Zed
+		
+	Jungle:
+	<show/hide champions>
+		Jungle, you have the most unique role, and chances are your laning capabilities are not gonna be the best compared to others minus Support mains. You're looking to pick a champ that either scales really well, or an early game champion to gank lanes and put your team ahead. You will take smite, and will look to gank lanes when they're shoved or the enemy team laner is really low and is overextended. Your first clear is always the hardest, and take note of where the enemy jungler starts. If bot lane is late to lane, then their jungler started bottom, and if they started top, their top laner will be late. It's generally better low elo to start bottom lane, as you'll get the best leash and your micromange game is probably not the best. Keep in mind of where the enemy jungler is, and look to either gank or countergank lanes.
+		
+		The jungle you pick will decide whether you farm early, or look to snowball lanes. The enemy jungle pick will decide if they will attempt an invade or gank early/farm. This is the most dynamic role, as you have a major impact on the game. If you can get away with farming, farm. But always help lanes that are in trouble or are in danger of being ganked. You're looking to take objectives when you know where the enemy jungler is, and where the enemy team is. Objectives win games, CS is King, Objectives are Queen, and kills are Jacks. 
+		
+		This is the most vague of the descriptions because the way you play will change almost EVERY single game because of players skill levels, and always different sitautions than last game. It's not as solid and concrete as lane match-ups. 
+		
+		Starting champions to learn for jungle: Warwick, Udyr, Amumu, Volibear
+		Champions to avoid when starting: Lee Sin, Lee Sin, Lee Sin... and... Lee Sin... oh and Nidalee. 
+	Support:
+	<show/hide champions>
+		Supports job is to ward the map where your team has control and slowly push vision into the enemy teams jungle, and to help the ADC farm safely in lane, or help secure kills for the ADC. You're looking to peel, poke, intimidate, and zone the enemy bot lane. I highly, HIGHLY suggest you play tank support, OR JANNA. TANK SUPPORT OR JANNA. It's generally the best way to climb, and you offer your team great peeling, engage, and front line (not Janna... too squishy). You will likely build to support your team, buying items like Aegis of the Legion or Banner of Command, Frozen Heart, maxing out your starting item, SIGHTSTONE. Always rush sightstone. Vision is important. Buying pink wards and placing them in areas where your team has control or deep in the enemy jungle. When you buy sightstone, swap out your yellow trinket for a red trinket so you can clear enemy wards. Using the red trinket to sweep where you know the enemy team placed wards and sweeping objectives denies information for the enemy team, and gives your team advantages on the map.  
+		
+		Learn your lane match-ups, what supports you're good against, what adc's you're good against, what adc's you support well, and what adc's you don't support well. Knowing if you're lane is a kill lane, or a farm lane/defensive lane is important. It'll dictate how aggressive you can play in lane, and if you can go for kills without the help of your jungler. If your ADC is ahead and you're reaching mid-game, look to roam and help other lanes. Tell your ADC to play safe, but note if it's a bot lane that can dive or set up easy kills, you shouldn't roam as much.
+		
+		Starting champions to learn for support: Blitzcrank, Morgana, Alistar, Trundle
+		Champions to avoid when starting: Thresh, Vel'koz
+		
+	ADC:
+	<show/hide champions>
+		ADC, you're arguably the carry of your team. You're a glass cannon that looks to melt the enemy team in teamfights while your team protects you. Your job is to farm, get items as fast as possible, and deal as much possible damage as you can in a teamfight. Your team relies on your damage to win the game, so position correctly and don't play too dangerous. As they said in Zelda... "It's Dangerous to go alone!". That's especially the case. Try to stick with at least one teammate at all times. Likely this will be your support. Look to harass in lane when the enemy adc goes to farm CS, ONLY if it's safe to harass. Try to gain lane advantage early, and pressure that advantage. Know what fights you can, and cannot take.
+		
+		Starting champons to learn for adc: Tristana, Jinx, Lucian
+		Champions to avoid when starting: Vayne, Draven, Kalista
+		
+	
+	Section 3: Game Phases
+	
+		Early Game(slightly larger)
+		
+			This is the farming phase of the game. Junglers will mostly be farming or looking for early ganks. This is where you spend most of your time trying to get farm for items for power spikes. Lanes will be looking to CS the best they can in the match-up they have, and possibly get kills when they can. Ward around the 3 minute mark unless you're bottom lane in which case, look to ward the bushes in your lane early. Rushing level 2 is the most important part of early game, and provides the largest lane pressure pre-6. If it's a match-up you can abuse your level 2, look to press the advantage for full lane control or even early kills on lane opponents. If they get level 2 before you, careful with your positioning.
+			
+			Every champions early game is different, some look to farm, some look to pressure for early kills or zone out opponents. If you're having trouble in lane, ask for a gank from the jungler. TRY TO NOT GIVE UP EARLY KILLS. You do not want your lane to snowball, YOU want to be the one that snowballs. Learn your match-ups, learn your champion. Understand what they do well in the early game, and what they lack. This is the most uneventful part of the game, until level 6. Try to freeze lane in front of your tower if they have kill pressure, or if your jungler is nearby. 
+			
+			Post-6, when everyone has their ultimate, look to make plays with your ultimate or play safer if you lose advantage. Keep note in chat when enemy laner uses ult, as it gives you advantage in lane for at least 60 seconds unless it's a low cooldown ultimate. Call for jungle ganks, and look to shove and roam. If lane opponent roams, shove lane into their tower and look to take it or roam as well.
+			
+		Middle Game(slightly larger)
+			The transition into middle game comes with power spikes with the first or second finished item. Look to group and take objectives as a team, and roam and kill other laners who are overextended or defending a tower they cannot hold. Tower diving is risky, and not always the best idea early. But if you're with a coordinated group, or in higher elo (High gold+), it becomes safer to do so with someone else. If neither of you can tank the tower, do not tower dive.
+			
+			Objectives start taking priority over farm and pressing advantages will only widen the gap between the two teams. The farther ahead in gold you are from your lane partner, and as a team, the easier you win the game. Objectives give global gold, so always press to take tier 1 towers in the mid game. If their team is ahead of yours, play safe and look for them to make mistakes. If you're behindy our lane opponent, look to make plays with your team, or if they roam, try to farm and pressure your lane as much as possible. Only give up towers if you cannot defend them safely. This is the point of the game where communication is arguably the most important, as most games will not last to late game. (Though in low elo... yeah... kinda happens a bit.) Playing as a team is 9 times out of 10 better than playing as a solo person.
+		
+		Late Game(slightly larger)
+			This is the most intense part of the game. The death timers are long, and can cause you to easily lose within the time of a respawn. Champions are at the peak of their damages and tankiness, and teamfights can go either way. Objective control is big. Look to get inhib towers down and sieging lanes that do not have inhib towers down. Ward baron, keep vision clear and try to go for objectives when lanes are shoved and threatening towers. Warding is important, and be careful when there's no vision on the enemy team. Look to split if your team isn't about to get engaged on and back early if you see the enemy team disappear off the map and you don't know where they are. DO NOT OVEREXTEND, YOU CAN COST YOUR TEAM THE GAME WITH ONE DEATH. 
+			
+			Play as a team, communication is important. Let your team know what you wanna do, and try to get your team to group and safely get vision together and push down lanes. Teams who communicate win more than discoordinated teams. Understand your team compisition, and what it is best at doing. If you cannot win fights on the offensive, do not engage, look to siege or pick off enemy players who are by themselves. ALWAYS BE LOOKING FOR PICKS. Being up one man in a teamfight is BIG. If you can win offensive teamfights, look for good opportunities to engage and get to their backline, or to delete their carries. Play around your wards and their lack of vision, and pay attention to what lanes are pushing, and what lanes aren't. If a lane threatens to take objectives, 5 man another lane and if you can get a good engage when they send someone to deal with the wave, wipe their team and take it to their nexus. If you're a splitpusher, map awareness is key, look to do it as long as TP is up or your team is under their turret and safe from engage. When the enemy team sends someone, if you can't fight them, back or teleport to your team. Sometimes they'll send 2-3 people for you, never engage on those fights unless it is something you can win.
+			
+		The Big What If... (slightly larger)
+			Every League of Legends game is about hypotheticals. If you do not know what to do in a situation, then you do not understand the game and have to learn to adapt. Yeah, sometimes you're going to get bad teammates, and you're going to have to learn to 1v5 carry by yourself. If you understand what YOU should be doing, you have a higer chance of carrying a game. Tell your team to play around you, but ONLY IF YOU KNOW WHAT YOU'RE DOING. Don't be that egotistical prick who thinks they know everything, when really they're a mediocre player who has an ego problem. The lower the elo, the more effective split pushing is. Top lane and jungle are the two best roles to play if you want to carry yourself to the higher elos. Learn the game, understand what your team needs to do to win a game, look to make plays, and do whatever is necessary to win. If the enemy team doesn't respect your split push, make them. If they send 5, that just means your team can take advantage of their team. If their team positions badly, take advantage of it. If people are overextended, gank them with teammates and put them on tilt. COMMUNICATE WITH YOUR TEAM, tell them WHAT you want to do, WHAT you think they should do AS a team. Try not to single out single players, because they will just get mad and start playing bad.
+			
+	Section 4: Closing Remarks
+		If you want to get better at League of Legends, then the most important thing is practicing your mechancis, and studying your main champion/s. Watch videos on them, understand their strengths and weaknesses, and know their match-ups well. Know what you can win, what you can't win, and how you can possibly outplay. Some deaths are unavoidable, but there are times you can turn a 1v2 into a double kill for you if you play it right. Don't get frustrated. Understand you can comeback any time in low elo, people throw... HARD.
+	
+	Section 5: References
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/xfmm40Ow-T8" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/tdQSuM0oRhw" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/aJsaRIJGDRg" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/zqK4PndRw34" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/QFb_zMwc1I0" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/FyGq1WKAQe8" frameborder="0" allowfullscreen></iframe>
+		<a href = "http://www.lolking.net/">LolKing Guides and League Information</a>
+		<a href = "http://www.probuilds.com/">Pro Player Builds and Runes</a>
+		<a href = "http://www.lolclass.com/">LoLClass Guides made by LCS Players</a>
+		<a href = "https://www.youtube.com/user/LolKoreanProReplays/videos">Korean Pro Videos, Best Way to Learn</a>
+		<a href = "https://www.youtube.com/user/thetekglow/videos">NA/EU Pro Videos</a>
+		<a href = "http://www.champion.gg">Champion Statistics and Match-Ups</a>
+		
+	Section 6: Riot API?
+	
+	Section 7: Contact Databse
+	
+	php ideas: dynamically output shit... lololol. Mostly arrays, maybe set cookie at the beginning. Riot API would prob be big boost. Form input on databse and riot api.

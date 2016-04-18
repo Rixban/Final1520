@@ -1,0 +1,34 @@
+<?php 
+$title = "<h1>Game Phases</h1>";
+$early = "<h2>Early Game</h2>";
+$farm = "<p>This is the farming phase of the game. Junglers will mostly be farming or looking for early ganks. This is where you spend most of your time trying to get farm for items for power spikes. Lanes will be looking to CS the best they can in the match-up they have, and possibly get kills when they can. Ward around the 3 minute mark unless you're bottom lane in which case, look to ward the bushes in your lane early. Rushing level 2 is the most important part of early game, and provides the largest lane pressure pre-6. If it's a match-up you can abuse your level 2, look to press the advantage for full lane control or even early kills on lane opponents. If they get level 2 before you, careful with your positioning.</p>";
+$diff = "<p>Every champions early game is different, some look to farm, some look to pressure for early kills or zone out opponents. If you're having trouble in lane, ask for a gank from the jungler. TRY TO NOT GIVE UP EARLY KILLS. You do not want your lane to snowball, YOU want to be the one that snowballs. Learn your match-ups, learn your champion. Understand what they do well in the early game, and what they lack. This is the most uneventful part of the game, until level 6. Try to freeze lane in front of your tower if they have kill pressure, or if your jungler is nearby.</p>";
+$post = "<p>Post-6, when everyone has their ultimate, look to make plays with your ultimate or play safer if you lose advantage. Keep note in chat when enemy laner uses ult, as it gives you advantage in lane for at least 60 seconds unless it's a low cooldown ultimate. Call for jungle ganks, and look to shove and roam. If lane opponent roams, shove lane into their tower and look to take it or roam as well.</p>";
+$middle = "<h2>Middle Game</h2>";			
+$trans = "<p>The transition into middle game comes with power spikes with the first or second finished item. Look to group and take objectives as a team, and roam and kill other laners who are overextended or defending a tower they cannot hold. Tower diving is risky, and not always the best idea early. But if you're with a coordinated group, or in higher elo (High gold+), it becomes safer to do so with someone else. If neither of you can tank the tower, do not tower dive.</p>";
+$obj = "<p>Objectives start taking priority over farm and pressing advantages will only widen the gap between the two teams. The farther ahead in gold you are from your lane partner, and as a team, the easier you win the game. Objectives give global gold, so always press to take tier 1 towers in the mid game. If their team is ahead of yours, play safe and look for them to make mistakes. If you're behindy our lane opponent, look to make plays with your team, or if they roam, try to farm and pressure your lane as much as possible. Only give up towers if you cannot defend them safely. This is the point of the game where communication is arguably the most important, as most games will not last to late game. (Though in low elo... yeah... kinda happens a bit.) Playing as a team is 9 times out of 10 better than playing as a solo person.</p>";
+$late = "<h2>Late Game</h2>";
+$care = "<p>This is the most intense part of the game. The death timers are long, and can cause you to easily lose within the time of a respawn. Champions are at the peak of their damages and tankiness, and teamfights can go either way. Objective control is big. Look to get inhib towers down and sieging lanes that do not have inhib towers down. Ward baron, keep vision clear and try to go for objectives when lanes are shoved and threatening towers. Warding is important, and be careful when there's no vision on the enemy team. Look to split if your team isn't about to get engaged on and back early if you see the enemy team disappear off the map and you don't know where they are. DO NOT OVEREXTEND, YOU CAN COST YOUR TEAM THE GAME WITH ONE DEATH.</p>";
+$team = "<p>Play as a team, communication is important. Let your team know what you wanna do, and try to get your team to group and safely get vision together and push down lanes. Teams who communicate win more than discoordinated teams. Understand your team compisition, and what it is best at doing. If you cannot win fights on the offensive, do not engage, look to siege or pick off enemy players who are by themselves. ALWAYS BE LOOKING FOR PICKS. Being up one man in a teamfight is BIG. If you can win offensive teamfights, look for good opportunities to engage and get to their backline, or to delete their carries. Play around your wards and their lack of vision, and pay attention to what lanes are pushing, and what lanes aren't. If a lane threatens to take objectives, 5 man another lane and if you can get a good engage when they send someone to deal with the wave, wipe their team and take it to their nexus. If you're a splitpusher, map awareness is key, look to do it as long as TP is up or your team is under their turret and safe from engage. When the enemy team sends someone, if you can't fight them, back or teleport to your team. Sometimes they'll send 2-3 people for you, never engage on those fights unless it is something you can win.</p>";
+$whatIf = "<h2>The Big What If...</h2>";		
+$hypo = "<p>Every League of Legends game is about hypotheticals. If you do not know what to do in a situation, then you do not understand the game and have to learn to adapt. Yeah, sometimes you're going to get bad teammates, and you're going to have to learn to 1v5 carry by yourself. If you understand what YOU should be doing, you have a higer chance of carrying a game. Tell your team to play around you, but ONLY IF YOU KNOW WHAT YOU'RE DOING. Don't be that egotistical prick who thinks they know everything, when really they're a mediocre player who has an ego problem. The lower the elo, the more effective split pushing is. Top lane and jungle are the two best roles to play if you want to carry yourself to the higher elos. Learn the game, understand what your team needs to do to win a game, look to make plays, and do whatever is necessary to win. If the enemy team doesn't respect your split push, make them. If they send 5, that just means your team can take advantage of their team. If their team positions badly, take advantage of it. If people are overextended, gank them with teammates and put them on tilt. COMMUNICATE WITH YOUR TEAM, tell them WHAT you want to do, WHAT you think they should do AS a team. Try not to single out single players, because they will just get mad and start playing bad.</p>";
+
+echo $title;
+echo "<br /><br />";
+echo $early;
+echo "<br />";
+echo $farm . $diff . $post;
+echo "<br />";
+echo $middle;
+echo "<br />";
+echo $trans . $obj;
+echo "<br />";
+echo $late;
+echo "<br />";
+echo $care . $team;
+echo "<br />";
+echo $whatIf;
+echo "<br />";
+echo $hypo;
+echo "<br />";
+		?>

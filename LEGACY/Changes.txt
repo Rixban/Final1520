@@ -1,0 +1,19 @@
+What did you change/enhance from part 1?
+
+	I enhanced the color scheme I had originally used from part 1, as I found it to be quite bland, as well as changed the font from part 1. I chose blue so it would be easier on the eyes, AND the font change was because to be honest, comic sans is not professional and takes away from the design in general due to that fact. I added a header/footer color background change, but chose not to for the inner parts alternating due to the size differences between the inner sections. I also added two new sections, an API, and a small clicking game. The API was added to show use of ajax, and since the API required multiple stacking calls in order to get information, I figured it would be good to show demonstration of learning through that. Also, the click game was just to show additional javascript skill, however, it is not very complicated, but adds different aspects I did not use. Also, I changed my hide/show buttons to a single toggle button.
+	
+	I didn't go through with the API 100% due to the amount of resources needed (I don't think you want to go through 400+ items/champions adding them each to individual id's for display), as I did have other projects to work on, but this would have been something I would have liked to add in had I had the time. (An example of how I would have liked to implement the API can be seen on op.gg, just put in a random summoner name (i.e. Warmdustcat, Rixban, HaxoonieNA, aphromoo, trick2g, fuzzyanimal, to name a few) Feel free to use those for the testing of the API as well. All of those are NA.)
+
+If there was a third part to the class project, what would you like to implement?
+
+	If there was a third part to the class project, I'd like to implement an interactive gui for my site, using the LoL map which could go through each section of my site. Other than that, Maybe we could have done something more with databases.
+
+What did you learn between part 1 and part 2?
+
+	What I had learned between part 1 and part 2 was javascript, and how through the use of javascript and jquery, you can make a webapp look and feel more vivid and alive compared to using flat html and... the not so secure php. The use of ajax and API's as well as events and functions bring webpages alive, and makes them much more interactable with the user. Being new to the whole webapp side of computer programming, this was a really cool section, and made me wish that we had honestly spent more time on js/jquery over php and html. I also wish you could've showed us more css tricks, since you are the css guy.
+
+What did you like about this project? How could it have been better?
+
+	I liked the whole working with the website, however, I do know for a fact that I'm not the most creative and artistic person, which kind of hinders layout and creativity in design and implementation, so everything seemingly comes out bland. Also working with javasript is cool, but maybe next time make it not-so-open-ended? Knowing exactly what you want, instead of a very open ended project would have probably made it easier to implement/think of ideas however, I do feel as if I put more effort into it because of the fact it was my own idea? Sorta?
+	
+	In order to make my website better, I think I should have added more images to be more graphically appealing instead of so bland and informational. 

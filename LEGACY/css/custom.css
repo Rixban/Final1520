@@ -1,0 +1,101 @@
+.intro-section {
+    padding-top: 100px;
+    text-align: left;
+}
+
+.mechanics-section {
+    padding-top: 100px;
+    text-align: left;
+}
+
+.lanes-section {
+    padding-top: 100px;
+    text-align: left;
+}
+
+.phases-section {
+    padding-top: 100px;
+    text-align: left;
+}
+
+.closing-section {
+    padding-top: 100px;
+    text-align: left;
+}
+
+.links-section {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.cont-section {
+    padding-top: 100px;
+    text-align: center;
+}
+
+	h1{
+		color: #F0E811;
+		font-size: 24px;
+		font-family: Comic Sans MS;
+		font-weight: bold;
+		font-variant: small-caps;
+		text-align: center;
+	}
+	
+	p{
+		color: #BFC7C9;
+		font-size: 14px;
+		font-family: Comic Sans MS;
+		text-align: block;
+		text-indent: 20px;
+	}
+	
+	h2{
+		color: #BFC7C9;
+		font-size: 20px;
+		font-family: Comic Sans MS;
+		font-weight: bold;
+	}
+	
+	h3{
+		color: #BFC7C9;
+		font-size: 18px;
+		font-family: Comic Sans MS;
+		text-align: block;
+		text-indent: 20px;
+		font-weight: bold;
+		
+	}
+	
+	li{
+		color: #BFC7C9;
+		font-size: 14px;
+		font-family: Comic Sans MS;
+	}
+	
+	body{
+		background-color: #4F4F4F;
+	}
+	
+	a{
+		color: #F0E811;
+		text-decoration: underline;
+		font-size: 16px;
+	}
+	
+	p::first-letter { 
+    font-size: 120%;
+    color: #BFC7C9;
+	font-family: Comic Sans MS;
+	}
+	
+	input[type=text]{
+		background-color: #4F4F4F;
+		color: #BFC7C9;
+		font-family: Comic Sans MS;
+	}
+	
+	input{
+		font-size: 14px;
+		font-family: Comic Sans MS;
+	}

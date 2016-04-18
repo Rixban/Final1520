@@ -1,0 +1,12 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfmm40Ow-T8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdQSuM0oRhw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJsaRIJGDRg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqK4PndRw34" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QFb_zMwc1I0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FyGq1WKAQe8" frameborder="0" allowfullscreen></iframe>
+<a href = "http://www.lolking.net/">LolKing Guides and League Information</a>
+<a href = "http://www.probuilds.com/">Pro Player Builds and Runes</a>
+<a href = "http://www.lolclass.com/">LoLClass Guides made by LCS Players</a>
+<a href = "https://www.youtube.com/user/LolKoreanProReplays/videos">Korean Pro Videos, Best Way to Learn</a>
+<a href = "https://www.youtube.com/user/thetekglow/videos">NA/EU Pro Videos</a>
+<a href = "http://www.champion.gg">Champion Statistics and Match-Ups</a>
